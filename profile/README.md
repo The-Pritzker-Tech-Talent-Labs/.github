@@ -1,5 +1,4 @@
-<img src="dpiformal.png" alt="Alt Text" style="width:50%; height:auto;">
-<img src="dpiformal.png" alt="DPI Logo" style="display: block; margin-left: auto; margin-right: auto;">  
+<img src="dpiformal.png" alt="DPI Logo" style="width:50%; height:auto;" style="display: block; margin-left: auto; margin-right: auto;">  
 
 ### DPI Precollege Programs — Empowering Illinois' Tech Future
 
