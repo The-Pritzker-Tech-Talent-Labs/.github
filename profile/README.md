@@ -4,8 +4,7 @@
 
 ### DPI Precollege Programs — Empowering Illinois' Tech Future
 
-Welcome to the **Discover Computing Program** — a 5-week journey into modern computing for high school students (Grades 9-10).  
-This program introduces you to web development, data science, APIs, machine learning, and AI through hands-on projects that build real skills and a portfolio you can share.
+Welcome to the **Discover Computing Program** — a 5-week journey into modern computing for high school students (Grades 9-10). This program introduces you to web development, data science, APIs, machine learning, and AI through hands-on projects that build real skills and a portfolio you can share.
 
 ---
 
