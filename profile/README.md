@@ -72,7 +72,7 @@ This 5-week program takes you from your first webpage to building AI-powered app
 - Create responsive user interfaces
 - Work with live data from the internet
 
-**Repository:** [DC_Fall-Week-3-APIs-Dynamic-Data](https://github.com/The-Pritzker-Tech-Talent-Labs/DC_Fall-Week-3-APIs-Dynamic-Data)
+**Repository:** [DC_Fall-Week-3-APIs-Dynamic-Data](https://github.com/dpi-precollege-programs/DC_Fall-Week-3-Live-Data-with-APIs)
 
 ---
 
