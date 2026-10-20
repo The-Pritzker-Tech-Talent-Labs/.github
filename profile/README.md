@@ -1,4 +1,4 @@
-![DPI Logo](dpi%20formal.png)
+![DPI Logo](dpi formal.png)
 ### DPI Precollege Programs — Empowering Illinois' Tech Future
 
 Welcome to the **Discover Computing Program** — a 5-week journey into modern computing for high school students (Grades 9-10).  
