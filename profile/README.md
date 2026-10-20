@@ -1,4 +1,6 @@
-<img src="dpiformal.png" alt="DPI Logo" style="width:50%; height:auto; display: block; margin-left: auto; margin-right: auto;">  
+<p align="center">
+    <img width="500" src="dpiformal.png" alt="DPI logo">
+</p>
 
 ### DPI Precollege Programs — Empowering Illinois' Tech Future
 
@@ -237,7 +239,6 @@ Each week includes:
 **Program Resources**
 - [DPI Tech Talent Development](https://dpi.uillinois.edu/tech-talent-development/)
 - [Discovery Partners Institute](https://dpi.uillinois.edu/)
-- [Pritzker Tech Talent Labs](https://dpi.uillinois.edu/tech-talent-development/)
 
 **Weekly Repositories**
 - [Week 1: HTML + CSS](https://github.com/The-Pritzker-Tech-Talent-Labs/DC_Fall-Week-1-HTML-CSS)
