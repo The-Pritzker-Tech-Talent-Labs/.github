@@ -10,7 +10,7 @@ Welcome to the **Discover Computing Program** — a 5-week journey into modern c
 
 ## 🌟 About This Program
 
-The **Pritzker Tech Talent Labs (PTTL)** at the **Discovery Partners Institute (DPI)** are dedicated to cultivating a diverse and skilled tech workforce across Illinois. The Discover Computing program is designed for early high school students who want to explore technology careers and build foundational computing skills.
+The **Precollege Programs Team** at the **Discovery Partners Institute (DPI)** are dedicated to cultivating a diverse and skilled tech workforce across Illinois. The Discover Computing program is designed for early high school students who want to explore technology careers and build foundational computing skills.
 
 **What You'll Gain:**
 - 🚀 **Real Projects** — Build 5 live web applications for your portfolio
@@ -204,10 +204,9 @@ Each week follows a consistent structure:
 
 ## 🌐 Related Programs
 
-The Pritzker Tech Talent Labs offer programs for learners at all stages:
+The Discovery Partners Institute offers programs for learners at all stages:
 
 **K–12 Programs**
-- **Digital Explorers (Grades 6–8)** — Foundational computing concepts
 - **Discover Computing (Grades 9–10)** — This program
 - **Digital Scholars (Grades 11–12)** — Advanced preparation for college and careers
 
@@ -215,9 +214,6 @@ The Pritzker Tech Talent Labs offer programs for learners at all stages:
 - **Digital Bridge** — Community college to tech careers
 - **Computer Science Starter Academy** — Foundational CS education
 - **Summer Tech Interns** — Practical experience opportunities
-
-**Adult Programs**
-- **Tech Talent Accelerator** — Career transition into tech roles
 
 Learn more at: [https://dpi.uillinois.edu/tech-talent-development/](https://dpi.uillinois.edu/tech-talent-development/)
 
