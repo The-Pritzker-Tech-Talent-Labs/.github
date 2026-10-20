@@ -1,5 +1,5 @@
 ![DPI Logo](dpiformal.png)
-<img src="dpiformal.jpg" width="300" height="200">
+<img src="dpiformal.png" alt="Alt Text" style="width:50%; height:auto;">
 
 ### DPI Precollege Programs — Empowering Illinois' Tech Future
 
