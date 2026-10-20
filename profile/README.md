@@ -1,5 +1,5 @@
-<img src="dpiformal.png" alt="Alt Text" style="width:50%; height:auto;" class="center">
-
+<img src="dpiformal.png" alt="Alt Text" style="width:50%; height:auto;">
+<img src="dpiformal.png" alt="Alt Text" class="center">
 ### DPI Precollege Programs — Empowering Illinois' Tech Future
 
 Welcome to the **Discover Computing Program** — a 5-week journey into modern computing for high school students (Grades 9-10).  
